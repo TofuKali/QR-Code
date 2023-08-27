@@ -1,2 +1,3 @@
 # QR-Code
-frontendmentor QR-Code Challenge Attempt
+frontendmentor QR-Code Challenge Attempt  
+
